@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "14.2.15",
+    "node-fetch": "^3.3.2",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.15"
+    "react-media-recorder": "^1.7.1",
+    "simli-client": "^1.1.5",
+    "simple-peer": "^9.11.1",
+    "ws": "^8.18.0"
   },
   "devDependencies": {
     "postcss": "^8",
