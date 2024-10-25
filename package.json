@@ -11,8 +11,9 @@
   "dependencies": {
     "next": "14.2.15",
     "node-fetch": "^3.3.2",
-    "react": "^18",
-    "react-dom": "^18",
+    "openai": "^4.68.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-media-recorder": "^1.7.1",
     "simli-client": "^1.1.5",
     "simple-peer": "^9.11.1",
