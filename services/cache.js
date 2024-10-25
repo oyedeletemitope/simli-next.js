@@ -1,5 +1,5 @@
 const cache = new Map();
-const CACHE_EXPIRY = 5 * 60 * 1000; // 5 minutes
+const CACHE_EXPIRY = 5 * 60 * 1000;
 
 export function getCachedResponse(key) {
   const cacheEntry = cache.get(key);
